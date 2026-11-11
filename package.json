@@ -1,0 +1,12 @@
+{
+  "name": "githubactions-learning-sample",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A small project for testing GitHub Actions",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
